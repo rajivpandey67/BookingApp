@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApp", "BookingApp\BookingApp.csproj", "{C76252DD-D755-4B99-B3F3-86A0460F5502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApp.Tests", "BookingApp.Tests\BookingApp.Tests.csproj", "{127CCAC1-33BF-4DB1-96E5-8C2A92983482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C76252DD-D755-4B99-B3F3-86A0460F5502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C76252DD-D755-4B99-B3F3-86A0460F5502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C76252DD-D755-4B99-B3F3-86A0460F5502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127CCAC1-33BF-4DB1-96E5-8C2A92983482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127CCAC1-33BF-4DB1-96E5-8C2A92983482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127CCAC1-33BF-4DB1-96E5-8C2A92983482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127CCAC1-33BF-4DB1-96E5-8C2A92983482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
