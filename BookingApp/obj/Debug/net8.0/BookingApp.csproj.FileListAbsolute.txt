@@ -2,10 +2,13 @@ D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\appsettings.Development.json
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\appsettings.json
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\BookingApp.staticwebassets.endpoints.json
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\BookingApp.exe
+D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Data\inventory.csv
+D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Data\members.csv
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\BookingApp.deps.json
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\BookingApp.runtimeconfig.json
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\BookingApp.dll
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\BookingApp.pdb
+D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\CsvHelper.dll
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Humanizer.dll
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -118,6 +121,7 @@ D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.AssemblyInfo.cs
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.csproj.CoreCompileInputs.cache
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.MvcApplicationPartsAssemblyInfo.cs
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.sourcelink.json
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\scopedcss\bundle\BookingApp.styles.css
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\staticwebassets.build.json
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\staticwebassets.development.json
@@ -135,6 +139,3 @@ D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\refint\BookingApp.dll
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.pdb
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\BookingApp.genruntimeconfig.cache
 D:\Projects\BookingApp\BookingApp\obj\Debug\net8.0\ref\BookingApp.dll
-D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Data\inventory.csv
-D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\Data\members.csv
-D:\Projects\BookingApp\BookingApp\bin\Debug\net8.0\CsvHelper.dll
