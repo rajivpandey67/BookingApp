@@ -1,0 +1,6 @@
+# Database files
+*.db
+*.sqlite
+**/Data/*.db
+# Visual Studio
+.vs/

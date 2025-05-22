@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BookingApp.Controllers.BookingsController",
+    "Method": "Book",
+    "RelativePath": "api/Bookings/book",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BookingApp.DTOs.BookingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
